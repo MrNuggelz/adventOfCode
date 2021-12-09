@@ -1,0 +1,7 @@
+.vscode/*
+*.code-workspace
+advent*.txt
+
+# Local History for Visual Studio Code
+.history/
+
